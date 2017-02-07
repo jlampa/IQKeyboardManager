@@ -33,10 +33,10 @@ import Foundation
 If there are no IQLayoutGuideConstraint associated with viewController
 
 `IQLayoutGuidePositionTop`
-If provided IQLayoutGuideConstraint is associated with with viewController topLayoutGuide
+If provided IQLayoutGuideConstraint is associated with viewController topLayoutGuide
 
 `IQLayoutGuidePositionBottom`
-If provided IQLayoutGuideConstraint is associated with with viewController bottomLayoutGuide
+If provided IQLayoutGuideConstraint is associated with viewController bottomLayoutGuide
 */
 enum IQLayoutGuidePosition : Int {
     case none
